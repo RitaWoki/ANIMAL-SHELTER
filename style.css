@@ -1,0 +1,37 @@
+.column1{
+  width: 33%;
+  float: left;
+  background-color: green;
+  margin: 5px;
+}
+.column1 img{
+  width: 100px;
+}
+
+.column2{
+width: 33%;
+float: left;
+background-color: green;
+margin: 5px;
+
+}
+
+.column2 img{
+  width: 100px;
+}
+
+.column3{
+width: 33%;
+float: right;
+background-color: green;
+margin: 5px;
+
+}
+.column3 img{
+  width: 100px;
+}
+
+
+p{
+  color: red;
+}
